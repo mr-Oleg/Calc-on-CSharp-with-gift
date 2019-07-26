@@ -1,0 +1,11 @@
+C:\Users\Олег\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Олег\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Олег\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Олег\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CopyComplete
